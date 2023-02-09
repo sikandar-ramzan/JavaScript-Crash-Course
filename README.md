@@ -1,0 +1,1 @@
+# This is a JavaScript Crash Course to learn JS at beginner level.
